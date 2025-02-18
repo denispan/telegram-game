@@ -1,5 +1,5 @@
 const bot = require('./config/bot');
-const { COMMANDS } = require('./constants');
+const COMMANDS  = require('./constants');
 const {
     handleStart,
     handleInfo,
