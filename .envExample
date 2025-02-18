@@ -1,1 +1,2 @@
-BOT_KEY=???
+BOT_KEY=your_telegram_bot_token
+WEATHER_API_KEY=your_openweathermap_api_key
