@@ -1,7 +1,7 @@
 # [Проект «Телеграм-бот»](https://t.me/denpan_bot)
 
 [t.me/denpan_bot](https://t.me/denpan_bot) </br></br>
-<img width="200" alt="screenshot" src="https://github.com/user-attachments/assets/249d0b1a-a708-41c4-b561-28f7a082760d" /> </br></br>
+<img width="200" alt="screenshot" src="https://github.com/user-attachments/assets/45f68a5a-89cb-4901-bbec-33a193952af4" /> </br></br>
 
 <strong>Pet-проект - телеграм бот на JS</strong></br>
 Может сообщить ваш ник в телеграм, с ним можно поиграть в игру "Угадай число" и узнать погоду по вашей локации</br>
@@ -30,10 +30,9 @@
 
 
 ### [Немного скриншотов](https://t.me/denpan_bot)
-| Процесс игры | Процесс игры |                                                          Процесс игры                                                          |
+| Скриншот работы приложения | Скриншот работы приложения | Скриншот работы приложения |
 |:---------------:|:--------------:|:------------------------------------------------------------------------------------------------------------------------------:|
-| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/1f409aad-b7a2-4ceb-9bf8-ad3d99a40abf" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/249d0b1a-a708-41c4-b561-28f7a082760d" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/249d0b1a-a708-41c4-b561-28f7a082760d" /> |
-
+| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/6477d85a-dbbd-44e2-b518-535d0788453c" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/efc5287e-1f86-4143-9653-dbf5a23cd9b9" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/52ea50c5-bdfd-4cdb-9abe-39fd88df28cd" /> |
 
 ### Структура проекта
 
